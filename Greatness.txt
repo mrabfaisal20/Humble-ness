@@ -3,3 +3,5 @@ kindness 1
 Helpness 2
 
 gentelness 3
+
+tenderness 4
