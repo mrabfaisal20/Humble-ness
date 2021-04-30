@@ -5,3 +5,5 @@ Helpness 2
 gentelness 3
 
 tenderness 4
+
+liniency 5
